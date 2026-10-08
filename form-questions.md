@@ -49,3 +49,6 @@ Was it honest, not just flattering? (1-5)
 Did anything feel fake, preachy, or wrong?
 What was the single most useful thing it said?
 Would you use it again? Why or why not?
+
+Link for the form:
+https://forms.gle/j8dKHSBjVemoD8Py5
