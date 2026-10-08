@@ -50,5 +50,8 @@ Did anything feel fake, preachy, or wrong?
 What was the single most useful thing it said?
 Would you use it again? Why or why not?
 
-Link for the form:
+Link for the personality analysis form:
 https://forms.gle/j8dKHSBjVemoD8Py5
+
+Link for feedback form:
+https://forms.gle/tgHz6oN2mmPR6W64A
