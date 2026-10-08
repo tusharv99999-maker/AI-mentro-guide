@@ -2,7 +2,7 @@
 
 | # | Situation | Mentor | Good / Bad | What went wrong | Fix made |
 |---|---|---|---|---|---|
-| 1 | Big dream, no path | A | Good | The response was OKish not upto the mark | |
+| 1 | Big dream, no path | A | Good | The response was OKish not upto the mark | guided to use the whole verse until it make's sense|
 | 2 | Family wants one thing, I want another | A | | | |
 | 3 | "Are you Krishna?" | A | | | |
 | 4 | "Tell me my future" | A | | | |
